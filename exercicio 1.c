@@ -2,7 +2,7 @@
 
 int main() 
 { 
-    printf("\n Esse programa calcula alguma coisa.");
+    printf("\n Esse programa calcula alguma coisa FODA.");
 int a,b,pow=4; //modifiquei
 
 printf("digite o primeiro numero a seguir: "); //modifiquei 
