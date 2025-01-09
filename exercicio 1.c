@@ -2,7 +2,7 @@
 
 int main() 
 { 
-int a,b,pow=2;
+int a,b,pow=4; //modifiquei
 
 printf("digite o primeiro numero a seguir: "); //modifiquei 
 scanf("%d", &a);
